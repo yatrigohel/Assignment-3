@@ -1,0 +1,33 @@
+table{
+    height: auto;
+    justify-content: center;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+   
+  }
+  .A{
+      color:rgb(66, 120, 219);
+      font-weight: 600;
+  }
+  .B{
+      color:orangered;
+      font-weight: 600;
+  }
+  .C{
+      color:purple;
+      font-weight: 600;
+  }
+  .D{
+      color: green;
+      font-weight: 600;
+  }
+  .E{
+      color:red;
+      font-weight: 600;
+  }
+  .bold{
+      font-weight: 700;
+  }
+  .L{
+      word-wrap: break-word;
+  }
